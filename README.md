@@ -11,33 +11,6 @@ The data had some annomalies likes duplicates and nan values which i have cleane
 - Price vs Quantity Analysis
 - Visualizations using Seaborn and Matplotlib
 
-## 🗂️ Folder Structure
-
-sales-eda-project/
-├── data/
-│   ├── raw_data/
-│   │   └── Products_sales.csv
-│   └── clean_data/
-│       └── cleaned_sales_data.csv
-│
-├── notebooks/
-│   └── Products_sales.ipynb
-│
-├── EDA_visuals/
-│   ├── p2-1.png
-│   ├── p2-2.png
-│   ├── p2-3.png
-│   ├── p2-4.png
-│   └── p2-5.png
-│
-├── Dashboard/
-    ├── 'Link for Interactive dashboard'
-    ├── p2_sales_dashboard.png
-
-└── requirements.txt
-|
-└── Readme.md
-└── Liecense 
 
 
 - `data/`: Contains raw data in raw_data directory and cleaned data in clean_data directory
