@@ -30,6 +30,10 @@ sales-eda-project/
 │   ├── p2-4.png
 │   └── p2-5.png
 │
+├── Dashboard/
+    ├── 'Link for Interactive dashboard'
+    ├── p2_sales_dashboard.png
+
 └── requirements.txt
 |
 └── Readme.md
